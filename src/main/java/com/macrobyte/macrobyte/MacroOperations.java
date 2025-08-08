@@ -213,7 +213,7 @@ public class MacroOperations {
                         }
                     }
                 } else {
-                    System.out.println("No key provided for 'Simulate Key' action at index " + keyTrack)
+                    System.out.println("No key provided for 'Simulate Key' action at index " + keyTrack);
                 }
 
             }
