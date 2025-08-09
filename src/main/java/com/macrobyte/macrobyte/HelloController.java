@@ -30,7 +30,7 @@ public class HelloController {
             "-fx-border-radius: 102;" +
             "-fx-background-radius: 102;";
 
-    public static String startKey = "Undfined";
+    public static String startKey = "Undefined";
     private Alert a = new Alert(Alert.AlertType.INFORMATION);
 
     @FXML
